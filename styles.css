@@ -1,0 +1,10 @@
+#mainDiv {
+    border: 1px solid black;
+}
+#heading {              
+padding:5px;
+background-color: grey;
+}
+.save{
+    float: right;
+}
